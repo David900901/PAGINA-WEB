@@ -1,0 +1,47 @@
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    text-align: left;        
+}
+
+header {
+    background-color: #f0e6f0;
+    padding: 20px;
+    width: 100%;
+
+}
+
+main {
+    padding: 20px;
+    width: 100%;
+    text-align: left;
+}
+
+section {
+    padding: 20px;
+    width: 100%;
+    text-align: left;
+}
+
+   
+
+.login-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 36px 32px;
+    width: 320px;
+    text-align:left;
+}
+
+body {
+    background-color: #f0e6f0;
+    min-height: 100vh;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    
+} 
+
+
+
+

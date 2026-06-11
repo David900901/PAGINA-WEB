@@ -1,9 +1,7 @@
 h1 {
     color: rgb(0, 0, 0);
     font-size: 170px;
-    text-align: left;
-    
-    
+    text-align: left;        
 }
 
 p {
@@ -16,4 +14,22 @@ body {
     background-color: rgb(211, 183, 202);
 }
 
+.lista {
+    color: rgb(199, 83, 5);
+    width: 300px;
+}
 
+.contacto {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+h3 {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
